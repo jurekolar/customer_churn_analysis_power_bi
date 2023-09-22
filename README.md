@@ -23,4 +23,3 @@ In addition, communicate any additional insights or improvements about the busin
 
 ### Churn analysis based on customer tenure
 ![Topic Selection](https://raw.githubusercontent.com/adamyangyang/customer-churn-analysis/main/dashboard/gifs/dashboard-v2-tenure-churn-feature.gif)
-"# customer_churn_analysis_power_bi" 
